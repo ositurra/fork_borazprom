@@ -4,3 +4,24 @@
     margin: 0px;
     padding: 0px;
 }
+body {
+    background-color: #183D3D;
+}
+
+
+.educacion-experiencia {
+    display: flex;
+    padding-top: 50px;
+}
+
+.portafolio{
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+.card img {
+    width: 100%;
+    height: 300px;
+}
